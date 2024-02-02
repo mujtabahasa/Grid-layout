@@ -1,0 +1,1 @@
+This is a basic grid layout in this project i will learn how grid properties work in css because grid properties is important in make a 2 dimensional layouts and complex layouts in css just like admin dashboard etc  
